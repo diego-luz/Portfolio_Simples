@@ -1,6 +1,4 @@
-### Portfólio com HTML e CSS
-
-**🔆 Portfólio simples usando HTML e CSS 🌙**
+**🔆 Portfólio simples usando HTML e CSS 🙂**
 
 Este portfólio foi realizado com um curso de HTML e CSS feito na Alura. 
 Fiz algumas modificações e bastante comentario.
@@ -12,9 +10,9 @@ Link: [Curso Online HTML e CSS: Classes, posicionamento e Flexbox | Alura](https
 ## Características
 
 Estrutura basica do site:
-![](C:\Users\diego\AppData\Roaming\marktext\images\2024-03-19-16-43-08-image.png)
 
-![](file://C:\Users\diego\AppData\Roaming\marktext\images\2024-03-19-16-43-08-image.png?msec=1710877388198)
+![image](https://github.com/diego-luz/portfolio_simples/assets/161847415/d7abb968-ad67-4e72-b8a2-949592f2572c)
+
 
 Importação fonte : https://fonts.google.com/
 
@@ -32,7 +30,7 @@ Falando sobre o espelhamento da imagem, ela não funciona em todos os navegadore
 🤯 Este site está longe do ideal, a diversos pontos para melhorias, espero ir evoluindo este projeto.
 
 ## Screenshot
+![image](https://github.com/diego-luz/portfolio_simples/assets/161847415/c6e33934-e89b-4a9b-8abf-e66a9e59c783)
 
-![](file://C:\Users\diego\AppData\Roaming\marktext\images\2024-03-19-16-30-11-image.png?msec=1710876611233)
 
 📖eps1.0_hellofriend.mov
