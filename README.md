@@ -35,4 +35,4 @@ Falando sobre o espelhamento da imagem, ela não funciona em todos os navegadore
 ![image](https://github.com/diego-luz/portfolio_simples/assets/161847415/c6e33934-e89b-4a9b-8abf-e66a9e59c783)
 
 
-📖eps1.0_hellofriend.mov
+🎞️eps1.0_hellofriend.mov
