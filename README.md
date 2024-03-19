@@ -12,6 +12,7 @@ Link: [Curso Online HTML e CSS: Classes, posicionamento e Flexbox | Alura](https
 ## Características
 
 Estrutura basica do site:
+![](C:\Users\diego\AppData\Roaming\marktext\images\2024-03-19-16-43-08-image.png)
 
 ![](file://C:\Users\diego\AppData\Roaming\marktext\images\2024-03-19-16-43-08-image.png?msec=1710877388198)
 
