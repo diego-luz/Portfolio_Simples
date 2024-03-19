@@ -27,7 +27,9 @@ Falando sobre o espelhamento da imagem, ela não funciona em todos os navegadore
 
 [CSS Image Reflection (w3schools.com)](https://www.w3schools.com/css/css3_image_reflection.asp)
 
+---
 🤯 Este site está longe do ideal, a diversos pontos para melhorias, espero ir evoluindo este projeto.
+
 
 ## Screenshot
 ![image](https://github.com/diego-luz/portfolio_simples/assets/161847415/c6e33934-e89b-4a9b-8abf-e66a9e59c783)
