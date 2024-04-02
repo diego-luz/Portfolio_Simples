@@ -30,6 +30,24 @@ Falando sobre o espelhamento da imagem, ela não funciona em todos os navegadore
 ---
 🤯 Este site está longe do ideal, a diversos pontos para melhorias, espero ir evoluindo este projeto.
 
+## Crei um docker pronto já com os arquivos caso queira testar.
+
+Link especifico:
+[Docker Hub](https://hub.docker.com/r/saberdl/portfolio_simples)
+
+Não vou entrar em detalhes aqui sobre a imagem porém não há vulnerabilidade nela, algumas evidências abaixo:
+
+![image](https://github.com/diego-luz/portfolio_simples/assets/161847415/a99e550f-2f50-44dc-9028-68d0d4f5bd6e)
+
+![image](https://github.com/diego-luz/portfolio_simples/assets/161847415/5e45507e-5f7f-4b90-baaf-67b7b575d88f)
+
+Para executar use o parametro:
+* Substitua os parametro:
+* --name portfolio_simples
+* -p 8081:80
+* --network sua_rede_docker
+
+docker container run --name portfolio_simples -d -p 8081:80 --network sua_rede_docker saberdl/portfolio_simples
 
 ## Captura de tela
 ![image](https://github.com/diego-luz/portfolio_simples/assets/161847415/c6e33934-e89b-4a9b-8abf-e66a9e59c783)
