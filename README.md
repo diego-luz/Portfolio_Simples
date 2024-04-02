@@ -41,13 +41,15 @@ Não vou entrar em detalhes aqui sobre a imagem porém não há vulnerabilidade 
 
 ![image](https://github.com/diego-luz/portfolio_simples/assets/161847415/5e45507e-5f7f-4b90-baaf-67b7b575d88f)
 
-Para executar use o parametro:
-* Substitua os parametro:
+Para executar use o parâmetro:
+* Substitua os parâmetros abaixo pela sua preferência:
 * --name portfolio_simples
 * -p 8081:80
 * --network sua_rede_docker
 
+```docker
 docker container run --name portfolio_simples -d -p 8081:80 --network sua_rede_docker saberdl/portfolio_simples
+```
 
 ## Captura de tela
 ![image](https://github.com/diego-luz/portfolio_simples/assets/161847415/c6e33934-e89b-4a9b-8abf-e66a9e59c783)
