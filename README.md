@@ -30,7 +30,7 @@ Falando sobre o espelhamento da imagem, ela não funciona em todos os navegadore
 ---
 🤯 Este site está longe do ideal, a diversos pontos para melhorias, espero ir evoluindo este projeto.
 
-## Crei um docker pronto já com os arquivos caso queira testar.
+🐳 ## Crei um docker pronto já com os arquivos caso queira testar.⭐
 
 Link especifico:
 [Docker Hub](https://hub.docker.com/r/saberdl/portfolio_simples)
