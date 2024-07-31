@@ -37,9 +37,9 @@ Link especifico:
 
 Não vou entrar em detalhes aqui sobre a imagem porém não há vulnerabilidade nela, algumas evidências abaixo:
 
-![image](https://github.com/diego-luz/portfolio_simples/assets/161847415/a99e550f-2f50-44dc-9028-68d0d4f5bd6e)
+![image](https://github.com/user-attachments/assets/a13de394-3b0d-4be3-b946-6736cb9e3e78)
+![image](https://github.com/user-attachments/assets/ac452e18-444e-48a4-a86b-25bc0f6b5b16)
 
-![image](https://github.com/diego-luz/portfolio_simples/assets/161847415/5e45507e-5f7f-4b90-baaf-67b7b575d88f)
 
 Para executar use o parâmetro:
 * Substitua os parâmetros abaixo pela sua preferência:
