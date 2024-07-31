@@ -48,7 +48,7 @@ Para executar use o parâmetro:
 * --network sua_rede_docker
 
 ```docker
-docker container run --name portfolio_simples -d -p 8081:80 --network sua_rede_docker saberdl/portfolio_simples
+docker container run --name portfolio_simples -d -p 8081:80 --network sua_rede_docker saberdl/portfolio_simples:2.0
 ```
 
 ## Captura de tela
