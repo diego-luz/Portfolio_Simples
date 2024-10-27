@@ -26,11 +26,14 @@ body{
 /* Estilizações para a descrição geral da página, especificando:
 - O tamanho da fonte (36px) para destacar a importância do texto.
 - A família da fonte "Krona One", proporcionando um aspecto distintivo para títulos ou cabeçalhos.
-- Cor do texto em cinza claro (#f6f6f6) para manter a consistência com o esquema de cores. */
+- Cor do texto em cinza claro (#f6f6f6) para manter a consistência com o esquema de cores.
+- White-space - Não limita o espaço da linha */
 .descricao_geral{
-    font-size: 36px;
+    font-size: 30px;
     font-family: "Krona One", sans-serif;
     color: #f6f6f6;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
 
 /* Estilos para destacar o título, aplicando uma cor azul claro (#22D4FD) para chamar atenção. */
