@@ -52,7 +52,6 @@ docker container run --name portfolio_simples -d -p 8081:80 --network sua_rede_d
 ```
 
 ## Captura de tela
-![image](https://github.com/diego-luz/portfolio_simples/assets/161847415/c6e33934-e89b-4a9b-8abf-e66a9e59c783)
-
+![image](https://github.com/user-attachments/assets/d39a69d7-e254-412d-93a9-42d9ea8b8bdb)
 
 🎞️eps1.0_hellofriend.mov
