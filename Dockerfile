@@ -3,9 +3,9 @@ LABEL maintainer="diego.saberdl@gmail.com"
 # Copie os arquivos do código-fonte para /app
 COPY portfolio_simples-main/* /app/
 WORKDIR /app
-ENV APP_VERSION=2.0
+ENV APP_VERSION=2.1
 
-FROM alpine:3.20.2
+FROM alpine:3.20.3
 RUN apk update && \
     apk upgrade && \
     apk add apache2 && \
